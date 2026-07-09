@@ -1,4 +1,5 @@
 Este miniguia de estudos foi estruturado em formato Markdown, ideal para ser publicado como um arquivo README.md no GitHub. Ele sintetiza os ensinamentos dos manuais oficiais do Banco Central (BCB), da CVM e do Tesouro Nacional para servir como um roteiro de aprendizado prático e técnico.
+
 📘 Guia de Estudos: Educação Financeira e Investimentos
 Este repositório contém um roteiro estruturado para quem deseja dominar as finanças pessoais e o mercado de investimentos no Brasil, fundamentado em fontes oficiais de cidadania financeira.
 📑 Sumário

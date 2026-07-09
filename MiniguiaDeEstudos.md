@@ -5,10 +5,15 @@ Este repositório contém um roteiro estruturado para quem deseja dominar as fin
 
 📑 Sumário
 Mentalidade e Planejamento
+
 Gestão de Orçamento
+
 Renda Fixa e Tesouro Direto
+
 Fundos de Investimento
+
 Proteção e Prevenção
+
 
 🎯 1. Mentalidade e Planejamento
 Antes de investir, é necessário entender a relação com o dinheiro e o impacto das escolhas no tempo.
